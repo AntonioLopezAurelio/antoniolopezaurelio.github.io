@@ -1,0 +1,162 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #6d460d;
+}
+
+.ima{
+    height: 300px;
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.imagencuento{
+    height: 450px;
+    width: 1270px;
+    margin-left: 0%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.cabecera{
+    background-image: url(../img/home2.jpg);
+    height: 100%;
+    width: 1335px;
+    margin-bottom: 5px;
+}
+
+.titulo{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 45px;
+    text-align: center;
+    color:#f8b20e;
+}
+
+.subtituloprincipal{
+    font-size: 25px;
+    text-align: center;
+    color:#dabaa0;
+}
+
+.menu {
+    background-color:#221203;
+    clear: both;
+    float: left;
+    width: 100%;
+    list-style: none;
+    margin: 0px;
+    padding: 5px;    
+}
+
+	
+.mli {
+   float: left;
+}
+
+.enlaces
+{
+    color: white;
+    font-size: 16px;
+    margin: 0px 10px 0px 20px;
+}
+
+.titulos{
+    text-align: center;
+    font-size: 35px;
+    font-family: Verdana;
+    margin: 0px;
+}
+
+.separadorarriba{
+    padding: 35px 0px 35px 0px;    
+}
+
+.separadorabajo{
+    padding: 0px 0px 35px 0px;    
+}
+
+.contenido{
+    background-color: white;
+    margin: 40px 40px 0px 40px;
+}
+
+.contenido2{
+    overflow: auto;
+    background-color: white;
+    margin: 0px 40px 0px 40px;
+    
+}
+
+.imagen{
+    margin: 25px 10px 10px 10px;
+}
+
+.parrafoflotante{
+    float: right;
+    width: 75%;
+    margin-right: 15px;
+    text-align: justify;
+    font-family: 'Courier';  
+}
+
+.parrafo
+{
+    margin: 0px 25px 0px 25px;
+    text-align: justify;
+    font-family: 'Courier';  
+}
+
+.subcontenido{
+    color: #c5221f;
+    font-size: 35px;
+    font-family: Verdana;
+    margin: 30px 0px 10px 30px;
+}
+
+.contenidonormal
+{
+    background-color: white;
+    margin: 0px 40px 50px 40px;
+}
+
+.subtitulos{
+    font-size: 25px;
+    margin: 15px 0px 25px 75px;
+    color:#e78434;
+
+}
+
+.parrafosecundario
+{
+    margin: 0px 55px 15px 75px;
+    text-align: justify;
+    font-family: 'Courier';  
+}
+
+.parraforesaltado{
+    margin: 25px 120px 25px 120px;
+    text-align: justify;
+    font-family: 'Courier';
+    font-size: 13px;
+    font-style: italic;
+}
+
+.sangria {
+    margin-left: 30px;
+}
+
+.lista{
+    margin: 10px 0px 0px 20px;
+    color: blue;
+    font-style: oblique;
+}
+
+.citas{
+    margin: 10px 0px 10px 20px;
+    color:green;
+    font-style: inherit;
+}
